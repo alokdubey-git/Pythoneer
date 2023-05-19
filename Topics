@@ -21,6 +21,36 @@ List
 Tuple 
 Range 
 -------------------
+Dictionaries di = {1:'alok', 2:'dubey', 3:'ankush'}
+print(di)
+print(di[2])
+----------------------------
+Literals  and Identifiers 
+ a = 15 (15 is literals and  a is Identifier here)
+ 
+There are three types of  literals 
+(Numeric, Boolean, string)
+------------------------------------
+Reserve words-
+There are 30 serserved words, which we can't use as a Variables 
+False, none, true , and , as , assert, break, class ,continue, def , del, elif, else, except , finally, for , from , global , if , import, in 
+Is, lambda, nonlocal, not , or , pass, raise, return, try , while, with , yield 
 
+------------------------------------------
+Operators ( Arthmetic, Assignment, Unary minus, Relational, Logical ).
+Arthametic Operator-
+(+,-,*, /, %,//, **
+
+unary minus operator- ( once we pront we get (Print) value in minus - 
+Relational Operator- 
+a!=b ( a is not equal to b 
+--------------------------
+
+
+
+
+
+
+ 
 
 
